@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Gloock', serif;
+    font-family: 'Moul', cursive;
+}
+.header{
+    background-color:  #022246;
+}
+.w{
+    font-weight: bolder;
+    font-size: 30px;
+    font-style: italic;
+    color:rgb(235, 97, 47);
+}
+.b{
+    font-weight: bolder;
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(251, 223, 202);
+}
+
+.navbar-toggler{
+    font-size: 14px;
+}
+.bu{ /*hright for button toggle*/
+    height: 30px; 
+}
+.header-navbar{
+    background-color:  #074773;
+}
+a{
+    font-size: 19px;
+}
+a:hover{
+    background-color: #022246;
+}
+.navbar{
+    padding-top: 0; 
+    padding-bottom:.2rem; 
+}
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+.h3{
+    font-size: 18px;
+    font-weight: bold;
+}
